@@ -1,4 +1,4 @@
-<img alt="coding gif" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
+<img alt="coding gif" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" height="500"  align="centre"/>
 <h1 align="center">Hi 👋, I'm Tushar Goel</h1>
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" width="400"/>
 - 🌱 I’m currently learning **React**
