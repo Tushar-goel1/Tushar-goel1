@@ -3,7 +3,7 @@
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" width="400"/>
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://my-personal-portfolio04.netlify.app/](https://my-personal-portfolio04.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tusharportfolio04.netlify.app/](https://tusharportfolio04.netlify.app/)
 
 - 💬 Ask me about **C++ ,React**
 
