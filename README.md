@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tushar2001goel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/168t1tY-I8G40nTVclX8zjbrQjJ2WEq2L/view?usp=drive_link](https://drive.google.com/file/d/168t1tY-I8G40nTVclX8zjbrQjJ2WEq2L/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wHGZkB3eltqLxzPDsOb4Bj3Gm7hnpO0s/view?usp=drive_link](https://drive.google.com/file/d/1wHGZkB3eltqLxzPDsOb4Bj3Gm7hnpO0s/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
